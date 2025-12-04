@@ -190,7 +190,6 @@ Suggestions and improvements are always welcome.
 
 ##  Contact
 
-**Your Name**  
 GitHub: [Riegoooo](https://github.com/Riegooo)  
 Email: christiandanielcagas0@gmail.com
 
