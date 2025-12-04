@@ -55,7 +55,7 @@ git clone https://github.com/Riegooo/crud-application
 ```
    xampp/
    └── htdocs/
-       └── crud_app/
+       └── crud-application-main/
            ├── config.php
            ├── index.php
            ├── style.css
@@ -84,7 +84,7 @@ $password = '';           // Default is empty
 
 2. **Open your browser and visit:**
 ```
-   http://localhost/crud_app/index.php
+   http://localhost/crud-application-main/index.php
 ```
 
 3. **Start using the app!**
@@ -97,7 +97,7 @@ $password = '';           // Default is empty
 
 ## Project Structure
 ```
-crud_app/
+crud-application-main/
 │
 ├── config.php           # Database connection & auto-setup
 ├── index.php            # Main application file (CRUD logic + HTML)
