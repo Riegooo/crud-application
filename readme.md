@@ -55,7 +55,7 @@ git clone https://github.com/Riegooo/crud-application
 ```
    xampp/
    └── htdocs/
-       └── product-inventory-system/
+       └── crud_app/
            ├── config.php
            ├── index.php
            ├── style.css
@@ -97,7 +97,7 @@ $password = '';           // Default is empty
 
 ## Project Structure
 ```
-product-inventory-system/
+crud_app/
 │
 ├── config.php           # Database connection & auto-setup
 ├── index.php            # Main application file (CRUD logic + HTML)
